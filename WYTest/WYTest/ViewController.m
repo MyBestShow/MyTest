@@ -11,6 +11,7 @@
 #import "UILabel+Suitable.h"
 #import "WYCellTableViewCell.h"
 //texttext
+// textDino
 #define kStatusBarHeight [[UIApplication sharedApplication] statusBarFrame].size.height
 #define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
 #define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
